@@ -9,6 +9,7 @@ public class IsmailKartt {
         System.out.println("ismail kart 2.6");
         System.out.println("ismail kart 2.7");
         System.out.println("ismail kart 2.8");
+        System.out.println("ismail kart 2.9");
     }
    
 }
