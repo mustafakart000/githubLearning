@@ -12,6 +12,8 @@ public class IsmailKartt {
         System.out.println("ismail kart 2.9");
         System.out.println("ismail kart 3.01");
         System.out.println("ismail kart 3.03");
+        System.out.println("ismail kart 3.04");
+        System.out.println("ismail kart 3.05");
 
     }
    
